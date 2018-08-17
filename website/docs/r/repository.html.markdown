@@ -1,3 +1,11 @@
+---
+layout: "helm"
+page_title: "Helm: repository"
+sidebar_current: "docs-helm-resource-repository"
+description: |-
+  A chart repository is a location where packaged charts can be stored and shared.
+---
+
 # Resource: helm_repository
 
 A chart repository is a location where packaged charts can be stored and shared.
